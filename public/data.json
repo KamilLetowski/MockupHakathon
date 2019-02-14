@@ -1,0 +1,163 @@
+[
+  {
+    "refId": 157,
+    "registrationNumber": "BI FS4U",
+    "capacity": 400,
+    "garbage": "szkło",
+    "avgCapacity": 120
+  },
+  {
+    "refId": 268,
+    "registrationNumber": "BI 83B4",
+    "capacity": 400,
+    "garbage": "odpady komunalne",
+    "avgCapacity": 112
+  },
+  {
+    "refId": 323,
+    "registrationNumber": "BI AFS0",
+    "capacity": 400,
+    "garbage": "odpady zielone",
+    "avgCapacity": 200
+  },
+  {
+    "refId": 357,
+    "registrationNumber": "BI WEF2",
+    "capacity": 400,
+    "garbage": "szkło",
+    "avgCapacity": 350
+  },
+  {
+    "refId": 755,
+    "registrationNumber": "BI WER3",
+    "capacity": 400,
+    "garbage": "odpady komunalne",
+    "avgCapacity": 266
+  },
+  {
+    "refId": 214,
+    "registrationNumber": "BI WEFW",
+    "capacity": 400,
+    "garbage": "odpady zielone",
+    "avgCapacity": 322
+  },
+  {
+    "refId": 901,
+    "registrationNumber": "BI 657T",
+    "capacity": 400,
+    "garbage": "szkło",
+    "avgCapacity": 287
+  },
+  {
+    "refId": 714,
+    "registrationNumber": "BI ETRI",
+    "capacity": 400,
+    "garbage": "odpady komunalne",
+    "avgCapacity": 200
+  },
+  {
+    "refId": 765,
+    "registrationNumber": "BI 657J",
+    "capacity": 400,
+    "garbage": "odpady zielone",
+    "avgCapacity": 233
+  },
+  {
+    "refId": 787,
+    "registrationNumber": "BI ERTH",
+    "capacity": 400,
+    "garbage": "odpady komunalne",
+    "avgCapacity": 345
+  },
+  {
+    "refId": 159,
+    "registrationNumber": "BI 456YH",
+    "capacity": 400,
+    "garbage": "odpady komunalne",
+    "avgCapacity": 98
+  },
+  {
+    "refId": 973,
+    "registrationNumber": "BI ERT4",
+    "capacity": 400,
+    "garbage": "odpady zielone",
+    "avgCapacity": 239
+  },
+  {
+    "refId": 436,
+    "registrationNumber": "BI TERH",
+    "capacity": 400,
+    "garbage": "odpady komunalne",
+    "avgCapacity": 347
+  },
+  {
+    "refId": 553,
+    "registrationNumber": "BI 7U7K",
+    "capacity": 400,
+    "garbage": "szkło",
+    "avgCapacity": 324
+  },
+  {
+    "refId": 462,
+    "registrationNumber": "BI 565H",
+    "capacity": 400,
+    "garbage": "odpady komunalne",
+    "avgCapacity": 289
+  },
+  {
+    "refId": 751,
+    "registrationNumber": "BI 56HG",
+    "capacity": 400,
+    "garbage": "odpady zielone",
+    "avgCapacity": 320
+  },
+  {
+    "refId": 873,
+    "registrationNumber": "BI 34HT",
+    "capacity": 400,
+    "garbage": "odpady komunalne",
+    "avgCapacity": 299
+  },
+  {
+    "refId": 730,
+    "registrationNumber": "BI 5U6B",
+    "capacity": 400,
+    "garbage": "szkło",
+    "avgCapacity": 341
+  },
+  {
+    "refId": 483,
+    "registrationNumber": "BI 45UN",
+    "capacity": 400,
+    "garbage": "odpady zielone",
+    "avgCapacity": 236
+  },
+  {
+    "refId": 941,
+    "registrationNumber": "BI 334K",
+    "capacity": 400,
+    "garbage": "szkło",
+    "avgCapacity": 354
+  },
+  {
+    "refId": 493,
+    "registrationNumber": "BI DFB6",
+    "capacity": 400,
+    "garbage": "odpady komunalne",
+    "avgCapacity": 341
+  },
+  {
+    "refId": 746,
+    "registrationNumber": "BI DFG4",
+    "capacity": 400,
+    "garbage": "odpady zielone",
+    "avgCapacity": 324
+  },
+  {
+    "refId": 846,
+    "registrationNumber": "BI DFGK",
+    "capacity": 400,
+    "garbage": "odpady komunalne",
+    "avgCapacity": 311
+  }
+]
